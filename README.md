@@ -1,5 +1,7 @@
 ## META-ADI
 
+## Only for self development usage.
+
 Collection of layers to support Analog Devices based platforms.
 
 Please refer to the README of each layer for more information.
