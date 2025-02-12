@@ -29,7 +29,8 @@ SRC_URI:append:zynq = " \
 		file://pl-delete-nodes-zynq-adrv9364-z7020-bob-cmos.dtsi \
 		file://pl-delete-nodes-zynq-adrv9364-z7020-bob.dtsi \
 		file://pl-delete-nodes-zynq-zc702-adv7511-ad9361-fmcomms5.dtsi \
-		file://pl-delete-nodes-zynq-zc702-adv7511.dtsi"
+		file://pl-delete-nodes-zynq-zc702-adv7511.dtsi \
+		file://pl-delete-nodes-VSG.dtsi"
 
 SRC_URI:append:zynqmp = " \
 		file://pl-zynqmp-zcu102-rev10-ad9361-fmcomms2-3-overlay.dtsi \
